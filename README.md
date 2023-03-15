@@ -26,6 +26,7 @@ Yhosts规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt
 StevenBlack规则：https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt
 
 
+
 #### 规则地址二
 
 静态规则：https://ghproxy.com/https://github.com/ilxp/koolproxy/blob/main/rules/koolproxy.txt
@@ -67,19 +68,19 @@ StevenBlack规则：https://cdn.jsdelivr.net/gh/ilxp/koolproxy@main/rules/steven
 
 #### 规则地址四（有缓存）
 
-静态规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/koolproxy.txt
+静态规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/koolproxy.txt
 
-每日规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/daily.txt
+每日规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/daily.txt
 
-视频规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/kp.dat
+视频规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/kp.dat
 
-AdGuard规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/adg.txt 
+AdGuard规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/adg.txt 
 
-坂本手机规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/adgk.txt
+坂本手机规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/adgk.txt
 
-Anti-AD规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/antiad.txt
+Anti-AD规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/antiad.txt
 
-Yhosts规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/yhosts.txt
+Yhosts规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/yhosts.txt
 
-StevenBlack规则：https://raw.githubusercontents.com/ilxp/koolproxy/main/rules/steven.txt
+StevenBlack规则：https://raw.gitmirror.com/ilxp/koolproxy/main/rules/steven.txt
 
