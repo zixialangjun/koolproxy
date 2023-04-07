@@ -1,17 +1,23 @@
 [Adblock Plus 2.0]
-! Version: 20220928193445
+! Version: 20230323162617
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
-||api-shoulei-ssl.xunlei.com/flowhub/v1/slots:batchGet
-||wpadmngr.com
-||thepiratebay.org/sw.js
-||gettine.com
-||ricewaterhou.xyz
-||spotscenered.info
-||getwil.com
-||adsco.re
-||onautcatholi.xyz
+/killcovid2021\.com/\d\.mp4/$mp4
+||twlcyc.cn
+dmhy.org###pkpk
+dmhy.org##div[id*="_ad"]
+tieba.baidu.com##div.fengchao-banner-defensive
+tieba.baidu.com##div.nav-bar-bottom
+vidhub.cc##div.player-info > div.module
+||xlviirdr.com
+||xlviiirdr.com
+||https://twlcyc.cn
+||https://xlviirdr.com
+||https://xlviiirdr.com
+||https://xlivrdr.com
+||https://1wkg.cn
+||https://ds9e.top
 ||https://api-shoulei-ssl.xunlei.com/flowhub/v1/slots:batchGet
 ||https://wpadmngr.com
 ||https://thepiratebay.org/sw.js
@@ -116,7 +122,6 @@
 ||https://mercury-sdk.snssdk.com
 ||https://onewsvod.com
 ||https://novel.pangolin-sdk-toutiao.com
-||https://yximgs.com
 ||https://g.alicdn.com/alilog
 ||https://image.uc.cn/s/uae/g/2p/wolong_ad_tpl
 ||https://sm-tc.cn
@@ -5001,6 +5006,11 @@
 @@||sohu.com/cityjson
 @@||browser.cloud.ucweb.com
 @@||feed.mix.sina.com.cn
+||https://dmhy.org###pkpk
+||https://dmhy.org##div[id*="_ad"]
+||https://tieba.baidu.com##div.fengchao-banner-defensive
+||https://tieba.baidu.com##div.nav-bar-bottom
+||https://vidhub.cc##div.player-info > div.module
 ||https://m.douyu.com##a.DownloadBtn
 ||https://m.qidian.com##.read-author-say.jsAuthorSay
 ||https://m.qidian.com##div[id*="chapterEndModule_"]
@@ -7708,7 +7718,6 @@
 ||https://www.rmdown.com##IMG[src*='wx2.sinaimg.cn']
 ||https://www.rmdown.com##IMG[src*='wx4.sinaimg.cn']
 ||https://www.rmdown.com##IMG[src*='cbu01.alicdn.com']
-||https://m.baidu.com,www.baidu.com##DIV[class='c-container']
 ||https://m.baidu.com,www.baidu.com##DIV[class='ec_urlline']
 ||https://m.baidu.com,www.baidu.com##H3[class='c-title c-color-link c-gap-top-small c-gap-bottom-small c-line-clamp3']
 ||https://m.baidu.com,www.baidu.com##DIV[class='c-container ec_resitem ec-new2  ec_wise_im ec_resitem_card ec_adv_last']
