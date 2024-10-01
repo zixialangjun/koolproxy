@@ -1,8 +1,7 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2024-09-14T15:21:22.467301+00:00
 !--------------------------------------
-!Total lines: 668
-!Version: 1.5.2-release
+!Total lines: 696
+!Version: 1.5.3-release
 
 
 
@@ -12,6 +11,7 @@
 ||https://8le8le.com
 ||https://a0.app.xiaomi.com
 ||https://aaid.umeng.com
+||https://abtest-ch.snssdk.com
 ||https://ad-cache.dopool.com
 ||https://ad-cdn.qingting.fm
 ||https://ad-scope.com
@@ -39,6 +39,7 @@
 ||https://adclick.tencentmusic.com
 ||https://adcolony.com
 ||https://adexpo.tencentmusic.com
+||https://adfstat.yandex.ru
 ||https://adguanggao.eee114.com
 ||https://adjust.cn
 ||https://adjust.com
@@ -59,12 +60,15 @@
 ||https://ads.huan.tv
 ||https://ads.huantest.com
 ||https://ads.icloseli.cn
+||https://ads.linkedin.com
 ||https://ads.music.126.net
 ||https://ads.oppomobile.com
 ||https://ads.pinterest.com
 ||https://ads.servebom.com
 ||https://ads.service.kugou.com
+||https://ads.tiktok.com
 ||https://ads.v3mh.com
+||https://ads.youtube.com
 ||https://ads3-normal-hl.zijieapi.com
 ||https://ads3-normal-lf.zijieapi.com
 ||https://ads3-normal-lq.zijieapi.com
@@ -74,6 +78,7 @@
 ||https://ads5-normal-lq.zijieapi.com
 ||https://ads5-normal.zijieapi.com
 ||https://adsense.google.cn
+||https://adserver.unityads.unity3d.com
 ||https://adservice.google.cn
 ||https://adservice.google.com
 ||https://adserviceretry.kugou.com
@@ -105,9 +110,11 @@
 ||https://advice-ads.s3.amazonaws.com
 ||https://adview.cn
 ||https://adx-ad.smart-tv.cn
+||https://adx-bj.anythinktech.com
 ||https://adx-cn.anythinktech.com
 ||https://adx-drcn.op.dbankcloud.cn
 ||https://adx-open-service.youku.com
+||https://adx-os.anythinktech.com
 ||https://adx.ads.heytapmobi.com
 ||https://adx.ads.oppomobile.com
 ||https://adxlog-adnet.vivo.com.cn
@@ -124,10 +131,13 @@
 ||https://analytics.95516.com
 ||https://analytics.google.com
 ||https://analytics.pinterest.com
+||https://analytics.pointdrive.linkedin.com
 ||https://analytics.query.yahoo.com
 ||https://analytics.rayjump.com
+||https://analytics.s3.amazonaws.com
 ||https://analytics.tiktok.com
 ||https://analytics.woozooo.com
+||https://analyticsengine.s3.amazonaws.com
 ||https://analyze.lemurbrowser.com
 ||https://andrqd.play.aiseet.atianqi.com
 ||https://ap.dongqiudi.com
@@ -158,15 +168,18 @@
 ||https://applog.uc.cn
 ||https://applog.zijieapi.com
 ||https://ata-sdk-uuid-report.dreport.meituan.net
+||https://auction.unityads.unity3d.com
 ||https://audid.umeng.com
 ||https://azr.footprintdns.com
 ||https://b1-data.ads.heytapmobi.com
+||https://bdad.123pan.cn
 ||https://bdapi-ads.realmemobile.com
 ||https://bdapi-in-ads.realmemobile.com
 ||https://bdapi.ads.oppomobile.com
 ||https://beacon-api.aliyuncs.com
 ||https://beacons.gvt2.com
 ||https://beizi.biz
+||https://bes-mtj.baidu.com
 ||https://bgg.baidu.com
 ||https://bianxian.com
 ||https://bj.ad.track.66mobi.com
@@ -177,6 +190,7 @@
 ||https://c.kuaiduizuoye.com
 ||https://c.sayhi.360.cn
 ||https://catalog.fjwhcbsh.com
+||https://cbjs.baidu.com
 ||https://ccs.umeng.com
 ||https://cctv.adsunion.com
 ||https://cdn-ad.wtzw.com
@@ -186,16 +200,20 @@
 ||https://chiq-cloud.com
 ||https://cj.qidian.com
 ||https://ck.ads.oppomobile.com
+||https://click.googleanalytics.com
+||https://click.oneplus.cn
 ||https://clog.miguvideo.com
 ||https://cnzz.com
 ||https://collect.kugou.com
 ||https://config.chsmarttv.com
+||https://config.unityads.unity3d.com
 ||https://conn-service-cn-03.allawntech.com
 ||https://conn-service-cn-04.allawntech.com
 ||https://conn-service-cn-05.allawntech.com
 ||https://conn-service-in-03.allawnos.com
 ||https://conn-service-in-04.allawnos.com
 ||https://conn-service-in-05.allawnos.com
+||https://cpro.baidustatic.com
 ||https://crashlytics.com
 ||https://crashlyticsreports-pa.googleapis.com
 ||https://csjplatform.com
@@ -228,6 +246,8 @@
 ||https://errnewlog.umeng.com
 ||https://event.tradplusad.com
 ||https://events-drcn.op.dbankcloud.cn
+||https://events.reddit.com
+||https://events.redditmedia.com
 ||https://firebaselogging-pa.googleapis.com
 ||https://flurry.com
 ||https://g-staic.ganjingworld.com
@@ -283,6 +303,8 @@
 ||https://img.adnyg.com
 ||https://img.adnyg.com.w.kunlungr.com
 ||https://imtmp.net
+||https://iot-eu-logser.realme.com
+||https://iot-logser.realme.com
 ||https://ipv4.kkmh.com
 ||https://irc.qubiankeji.com
 ||https://itv2-up.openspeech.cn
@@ -297,6 +319,7 @@
 ||https://launcher.smart-tv.cn
 ||https://launcherimg.smart-tv.cn
 ||https://lf3-ad-union-sdk.pglstatp-toutiao.com
+||https://lf6-ad-union-sdk.pglstatp-toutiao.com
 ||https://litchiads.com
 ||https://liveats-vod.video.ptqy.gitv.tv
 ||https://livemonitor.huan.tv
@@ -399,6 +422,7 @@
 ||https://pixon.ads-pixiv.net
 ||https://plbslog.umeng.com
 ||https://policy.video.ptqy.gitv.tv
+||https://pos.baidu.com
 ||https://public.gdtimg.com
 ||https://qzs.gdtimg.com
 ||https://recommend-drcn.hms.dbankcloud.cn
@@ -453,6 +477,7 @@
 ||https://stat.dongqiudi.com
 ||https://statics.woozooo.com
 ||https://stats.qiumibao.com
+||https://stats.wp.com
 ||https://statsigapi.net
 ||https://stg-data.ads.heytapmobi.com
 ||https://success.ctobsnssdk.com
@@ -499,6 +524,7 @@
 ||https://ulogjs.gifshow.com
 ||https://ulogs.umeng.com
 ||https://ulogs.umengcloud.com
+||https://umini.shujupie.com
 ||https://umsns.com
 ||https://union.baidu.cn
 ||https://union.baidu.com
@@ -541,9 +567,9 @@
 ||https://w1.zskwai.com
 ||https://weather-community-drcn.weather.dbankcloud.cn
 ||https://webstat.qiumibao.com
+||https://webview.unityads.unity3d.com
 ||https://widgets.outbrain.com
 ||https://widgets.pinterest.com
-||https://wn.pos.baidu.com
 ||https://ws-keyboard.shouji.sogou.com
 ||https://www42.zskwai.com
 ||https://xiaomi-dtv.m.cn.miaozhen.com
@@ -557,12 +583,11 @@
 ||https://ykad-gateway.youku.com
 ||https://youxi.kugou.com
 ||https://zeus.ad.xiaomi.com
-/*\.*\.shouji\.sogou\.com/
-/*\.[a-zA-Z0-9.-]skwai\.com/
-/*\.a\.market\.xiaomi\.com/
-/*\.data\.hicloud\.com/
-/*\.log\.aliyuncs\.com/
-/*\.shouji\.sogou\.com/
+/.*\.*\.shouji\.sogou\.com/
+/.*\.[a-zA-Z0-9.-]skwai\.com/
+/.*\.a\.market\.xiaomi\.com/
+/.*\.data\.hicloud\.com/
+/.*\.log\.aliyuncs\.com/
 /[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com/
 /[a-zA-Z0-9.-]*-ad\.sm\.cn/
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
