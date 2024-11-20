@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 696
-!Version: 1.5.3-release
+!Total lines: 698
+!Version: 1.5.4-release
 
 
 
@@ -14,8 +14,12 @@
 ||https://abtest-ch.snssdk.com
 ||https://ad-cache.dopool.com
 ||https://ad-cdn.qingting.fm
+||https://ad-cmp.hismarttv.com
+||https://ad-download.hismarttv.com
+||https://ad-imp.hismarttv.com
 ||https://ad-scope.com
 ||https://ad-scope.com.cn
+||https://ad-sdk-config.youdao.com
 ||https://ad-sdk.huxiu.com
 ||https://ad.12306.cn
 ||https://ad.51wnl.com
@@ -36,6 +40,7 @@
 ||https://adapi.izuiyou.com
 ||https://adapi.yynetwk.com
 ||https://adcdn.tencentmusic.com
+||https://adclick.g.doubleclick.net
 ||https://adclick.tencentmusic.com
 ||https://adcolony.com
 ||https://adexpo.tencentmusic.com
@@ -183,7 +188,7 @@
 ||https://bgg.baidu.com
 ||https://bianxian.com
 ||https://bj.ad.track.66mobi.com
-||https://bossaudioandcomic-1252317822.image.myqcloud.com
+||https://browsercfg-drcn.cloud.dbankcloud.cn
 ||https://business-api.tiktok.com
 ||https://c.bidtoolads.com
 ||https://c.evidon.com
@@ -195,6 +200,7 @@
 ||https://cctv.adsunion.com
 ||https://cdn-ad.wtzw.com
 ||https://cdn-ads.oss-cn-shanghai.aliyuncs.com
+||https://cdn-plugin-sync-upgrade-juui.hismarttv.com
 ||https://cdn.ad.xiaomi.com
 ||https://cdn.ynuf.aliapp.org
 ||https://chiq-cloud.com
@@ -207,12 +213,6 @@
 ||https://collect.kugou.com
 ||https://config.chsmarttv.com
 ||https://config.unityads.unity3d.com
-||https://conn-service-cn-03.allawntech.com
-||https://conn-service-cn-04.allawntech.com
-||https://conn-service-cn-05.allawntech.com
-||https://conn-service-in-03.allawnos.com
-||https://conn-service-in-04.allawnos.com
-||https://conn-service-in-05.allawnos.com
 ||https://cpro.baidustatic.com
 ||https://crashlytics.com
 ||https://crashlyticsreports-pa.googleapis.com
@@ -230,7 +230,6 @@
 ||https://dm.toutiao.com
 ||https://domain.aishengji.com
 ||https://doubleclick-cn.net
-||https://doubleclick.net
 ||https://download.changhong.upgrade2.huan.tv
 ||https://downloadxml.changhong.upgrade2.huan.tv
 ||https://drcn-weather.cloud.huawei.com
@@ -240,6 +239,7 @@
 ||https://dxp.baidu.com
 ||https://e.ad.xiaomi.com
 ||https://eclick.baidu.com
+||https://edge.ads.twitch.tv
 ||https://ef-dongfeng.tanx.com
 ||https://entry.baidu.com
 ||https://errlog.umeng.com
@@ -272,9 +272,7 @@
 ||https://grs.hicloud.com
 ||https://grs.platform.dbankcloud.ru
 ||https://hanlanad.com
-||https://henzanapp.com
 ||https://hexagon-analytics.com
-||https://hiboard-drcn.ai.dbankcloud.cn
 ||https://hm.baidu.com
 ||https://hmma.baidu.com
 ||https://houyi.kkmh.com
@@ -359,10 +357,9 @@
 ||https://logupdate.avlyun.sec.miui.com
 ||https://m.ad.zhangyue.com
 ||https://m.atm.youku.com
+||https://m.ctrip.com
 ||https://m1.ad.10010.com
-||https://manhua.acimg.cn
 ||https://mbdlog.iqiyi.com
-||https://metok.sys.miui.com
 ||https://metrics.data.hicloud.com
 ||https://metrics.icloud.com
 ||https://metrics2.data.hicloud.com
@@ -434,6 +431,7 @@
 ||https://rms-drcn.platform.dbankcloud.cn
 ||https://roi.soulapp.cn
 ||https://rtb.voiceads.cn
+||https://s.amazon-adsystem.com
 ||https://saad.ms.zhangyue.net
 ||https://samsung-com.112.2o7.net
 ||https://samsungads.com
@@ -530,14 +528,17 @@
 ||https://union.baidu.com
 ||https://update.avlyun.sec.miui.com
 ||https://update.lejiao.tv
+||https://upgrade-update.hismarttv.com
 ||https://v.adintl.cn
 ||https://v.adx.hubcloud.com.cn
 ||https://v1-ad.video.yximgs.com
 ||https://v2-ad.video.yximgs.com
+||https://v2-api-channel-launcher.hismarttv.com
 ||https://v3-ad.video.yximgs.com
 ||https://video-ad.sm.cn
 ||https://video-dsp.pddpic.com
 ||https://virusinfo-cloudscan-cn.heytapmobi.com
+||https://volc.bj.ad.track.66mobi.com
 ||https://vungle.com
 ||https://w1.askwai.com
 ||https://w1.bskwai.com
