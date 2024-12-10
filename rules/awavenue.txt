@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 698
-!Version: 1.5.4-release
+!Total lines: 725
+!Version: 1.5.5-release
 
 
 
@@ -26,6 +26,7 @@
 ||https://ad.bwton.com
 ||https://ad.cctv.com
 ||https://ad.cyapi.cn
+||https://ad.doubleclick.net
 ||https://ad.partner.gifshow.com
 ||https://ad.qingting.fm
 ||https://ad.richmob.cn
@@ -39,6 +40,8 @@
 ||https://ad.zijieapi.com
 ||https://adapi.izuiyou.com
 ||https://adapi.yynetwk.com
+||https://adc.hpplay.cn
+||https://adcdn.hpplay.cn
 ||https://adcdn.tencentmusic.com
 ||https://adclick.g.doubleclick.net
 ||https://adclick.tencentmusic.com
@@ -55,6 +58,7 @@
 ||https://ads-api.tiktok.com
 ||https://ads-img-qc.xhscdn.com
 ||https://ads-jp.tiktok.com
+||https://ads-marketing-vivofs.vivo.com.cn
 ||https://ads-sg.tiktok.com
 ||https://ads-us.tiktok.com
 ||https://ads-video-al.xhscdn.com
@@ -82,6 +86,10 @@
 ||https://ads5-normal-lf.zijieapi.com
 ||https://ads5-normal-lq.zijieapi.com
 ||https://ads5-normal.zijieapi.com
+||https://adse.test.ximalaya.com
+||https://adse.wsa.ximalaya.com
+||https://adse.ximalaya.com
+||https://adsebs.ximalaya.com
 ||https://adsense.google.cn
 ||https://adserver.unityads.unity3d.com
 ||https://adservice.google.cn
@@ -130,6 +138,7 @@
 ||https://ali-ad.a.yximgs.com
 ||https://alog.umeng.com
 ||https://als.baidu.com
+||https://amdcopen.m.umeng.com
 ||https://analysis.yozocloud.cn
 ||https://analytics-api.samsunghealthcn.com
 ||https://analytics.126.net
@@ -156,6 +165,7 @@
 ||https://api-access.pangolin-sdk-toutiao4.com
 ||https://api-access.pangolin-sdk-toutiao5.com
 ||https://api-ad-product.huxiu.com
+||https://api-gd.hiaiabc.com
 ||https://api-htp.beizi.biz
 ||https://api.ad.xiaomi.com
 ||https://api.e.kuaishou.com
@@ -177,6 +187,7 @@
 ||https://audid.umeng.com
 ||https://azr.footprintdns.com
 ||https://b1-data.ads.heytapmobi.com
+||https://baichuan-sdk.alicdn.com
 ||https://bdad.123pan.cn
 ||https://bdapi-ads.realmemobile.com
 ||https://bdapi-in-ads.realmemobile.com
@@ -209,6 +220,8 @@
 ||https://click.googleanalytics.com
 ||https://click.oneplus.cn
 ||https://clog.miguvideo.com
+||https://cnlogs.umeng.com
+||https://cnlogs.umengcloud.com
 ||https://cnzz.com
 ||https://collect.kugou.com
 ||https://config.chsmarttv.com
@@ -250,18 +263,22 @@
 ||https://events.redditmedia.com
 ||https://firebaselogging-pa.googleapis.com
 ||https://flurry.com
+||https://g-adnet.hiaiabc.com
 ||https://g-staic.ganjingworld.com
 ||https://g2.ganjing.world
 ||https://game.loveota.com
 ||https://gdfp.gifshow.com
 ||https://gemini.yahoo.com
 ||https://geo.yahoo.com
+||https://getui.cn
 ||https://getui.com
+||https://getui.net
 ||https://ggx.cmvideo.cn
 ||https://ggx01.miguvideo.com
 ||https://ggx03.miguvideo.com
 ||https://globalapi.ad.xiaomi.com
 ||https://google-analytics.com
+||https://googleads.g.doubleclick.net
 ||https://googleadservices-cn.com
 ||https://googleadservices.com
 ||https://googletagservices-cn.com
@@ -291,6 +308,7 @@
 ||https://iadctest.qwapi.com
 ||https://ifacelog.iqiyi.com
 ||https://ifs.tanx.com
+||https://igexin.com
 ||https://imag8.pubmatic.com
 ||https://imag86.pubmatic.com
 ||https://image-ad.sm.cn
@@ -355,9 +373,9 @@
 ||https://logservice1.hicloud.com
 ||https://logtj.kugou.com
 ||https://logupdate.avlyun.sec.miui.com
+||https://m-adnet.hiaiabc.com
 ||https://m.ad.zhangyue.com
 ||https://m.atm.youku.com
-||https://m.ctrip.com
 ||https://m1.ad.10010.com
 ||https://mbdlog.iqiyi.com
 ||https://metrics.data.hicloud.com
@@ -403,6 +421,7 @@
 ||https://p1-lm.adkwai.com
 ||https://p2-be-pack-sign.pglstatp-toutiao.com
 ||https://p2-lm.adkwai.com
+||https://p2p.huya.com
 ||https://p3-be-pack-sign.pglstatp-toutiao.com
 ||https://p3-lm.adkwai.com
 ||https://p3-tt.byteimg.com
@@ -417,6 +436,7 @@
 ||https://pglstatp-toutiao.com
 ||https://pig.pupuapi.com
 ||https://pixon.ads-pixiv.net
+||https://pkoplink.com
 ||https://plbslog.umeng.com
 ||https://policy.video.ptqy.gitv.tv
 ||https://pos.baidu.com
@@ -427,6 +447,7 @@
 ||https://res1.hubcloud.com.cn
 ||https://res2.hubcloud.com.cn
 ||https://res3.hubcloud.com.cn
+||https://resolve.umeng.com
 ||https://review.gdtimg.com
 ||https://rms-drcn.platform.dbankcloud.cn
 ||https://roi.soulapp.cn
@@ -480,6 +501,7 @@
 ||https://stg-data.ads.heytapmobi.com
 ||https://success.ctobsnssdk.com
 ||https://syh-imp.cdnjtzy.com
+||https://szbdyd.com
 ||https://t-dsp.pinduoduo.com
 ||https://t.track.ad.xiaomi.com
 ||https://t002.ottcn.com
