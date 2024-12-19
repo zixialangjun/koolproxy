@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 725
-!Version: 1.5.5-release
+!Total lines: 745
+!Version: 1.5.6-release
 
 
 
@@ -137,6 +137,7 @@
 ||https://aiseet.aa.atianqi.com
 ||https://ali-ad.a.yximgs.com
 ||https://alog.umeng.com
+||https://alogus.umeng.com
 ||https://als.baidu.com
 ||https://amdcopen.m.umeng.com
 ||https://analysis.yozocloud.cn
@@ -175,6 +176,7 @@
 ||https://api.jietuhb.com
 ||https://api.kingdata.ksyun.com
 ||https://api.statsig.com
+||https://api.touch-moblie.com
 ||https://api5-normal-quic-lf.ixigua.com
 ||https://apiyd.my91app.com
 ||https://apks.webxiaobai.top
@@ -182,6 +184,7 @@
 ||https://applog.lc.quark.cn
 ||https://applog.uc.cn
 ||https://applog.zijieapi.com
+||https://aspect-upush.umeng.com
 ||https://ata-sdk-uuid-report.dreport.meituan.net
 ||https://auction.unityads.unity3d.com
 ||https://audid.umeng.com
@@ -261,8 +264,12 @@
 ||https://events-drcn.op.dbankcloud.cn
 ||https://events.reddit.com
 ||https://events.redditmedia.com
+||https://fclog.baidu.com
+||https://feed-image.baidu.com
 ||https://firebaselogging-pa.googleapis.com
 ||https://flurry.com
+||https://frontend-perf-service.e.kuaishou.com
+||https://fxgate.baidu.com
 ||https://g-adnet.hiaiabc.com
 ||https://g-staic.ganjingworld.com
 ||https://g2.ganjing.world
@@ -331,6 +338,7 @@
 ||https://jpush.io
 ||https://jswebcollects.kugou.com
 ||https://kl.67it.com
+||https://klink.volceapplog.com
 ||https://ks.pull.yximgs.com
 ||https://launcher.smart-tv.cn
 ||https://launcherimg.smart-tv.cn
@@ -348,8 +356,11 @@
 ||https://log-api.pangolin-sdk-toutiao.com
 ||https://log-report.com
 ||https://log-sdk.gifshow.com
+||https://log-sdk.ksapisrv.com
 ||https://log-upload-os.hoyoverse.com
 ||https://log-upload.mihoyo.com
+||https://log-verify.dutils.com
+||https://log-verify.hiaiabc.com
 ||https://log.ad.xiaomi.com
 ||https://log.aispeech.com
 ||https://log.amemv.com
@@ -373,6 +384,7 @@
 ||https://logservice1.hicloud.com
 ||https://logtj.kugou.com
 ||https://logupdate.avlyun.sec.miui.com
+||https://luimg.baidu.com
 ||https://m-adnet.hiaiabc.com
 ||https://m.ad.zhangyue.com
 ||https://m.atm.youku.com
@@ -401,6 +413,7 @@
 ||https://mssdk.volces.com
 ||https://mssdk.zijieapi.com
 ||https://mtj.baidu.com
+||https://nadvideo2.baidu.com
 ||https://newvoice.chiq5.smart-tv.cn
 ||https://nmetrics.samsung.com
 ||https://nsclick.baidu.com
@@ -411,8 +424,8 @@
 ||https://open.e.kuaishou.cn
 ||https://open.e.kuaishou.com
 ||https://open.kuaishouzt.com
-||https://open.kwaishouzt.com
 ||https://open.kwaizt.com
+||https://open.snssdk.com
 ||https://optimus-ads.amap.com
 ||https://otheve.play.aiseet.atianqi.com
 ||https://outlookads.live.com
@@ -607,7 +620,6 @@
 ||https://youxi.kugou.com
 ||https://zeus.ad.xiaomi.com
 /.*\.*\.shouji\.sogou\.com/
-/.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
@@ -616,7 +628,6 @@
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
 /[a-zA-Z0-9.-]*-ad\.wtzw\.com/
 /[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
-/[a-zA-Z0-9.-]*-lm\.adkwai\.com/
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
