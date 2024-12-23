@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 745
+!Total lines: 744
 !Version: 1.5.6-release
 
 
@@ -311,7 +311,6 @@
 ||https://hya.comp.360os.com
 ||https://hye.comp.360os.com
 ||https://hyt.comp.360os.com
-||https://i.snssdk.com
 ||https://iadctest.qwapi.com
 ||https://ifacelog.iqiyi.com
 ||https://ifs.tanx.com
