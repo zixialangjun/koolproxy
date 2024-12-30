@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 744
+!Total lines: 752
 !Version: 1.5.6-release
 
 
@@ -94,6 +94,7 @@
 ||https://adserver.unityads.unity3d.com
 ||https://adservice.google.cn
 ||https://adservice.google.com
+||https://adservice.sigmob.cn
 ||https://adserviceretry.kugou.com
 ||https://adsfile.bssdlbig.kugou.com
 ||https://adsfilebssdlbig.ali.kugou.com
@@ -216,6 +217,7 @@
 ||https://cdn-ads.oss-cn-shanghai.aliyuncs.com
 ||https://cdn-plugin-sync-upgrade-juui.hismarttv.com
 ||https://cdn.ad.xiaomi.com
+||https://cdn.aiclk.com
 ||https://cdn.ynuf.aliapp.org
 ||https://chiq-cloud.com
 ||https://cj.qidian.com
@@ -229,6 +231,7 @@
 ||https://collect.kugou.com
 ||https://config.chsmarttv.com
 ||https://config.unityads.unity3d.com
+||https://cpc-service-square.aiclk.com
 ||https://cpro.baidustatic.com
 ||https://crashlytics.com
 ||https://crashlyticsreports-pa.googleapis.com
@@ -239,6 +242,7 @@
 ||https://data.mistat.india.xiaomi.com
 ||https://data.mistat.rus.xiaomi.com
 ||https://data.mistat.xiaomi.com
+||https://dc.sigmob.cn
 ||https://diagnosis.ad.xiaomi.com
 ||https://dig.bdurl.net
 ||https://dl.zuimeitianqi.com
@@ -378,6 +382,7 @@
 ||https://log.zijieapi.com
 ||https://log1.cmpassport.com
 ||https://logbak.hicloud.com
+||https://logrcv.aiclk.com
 ||https://logs.amap.com
 ||https://logservice.hicloud.com
 ||https://logservice1.hicloud.com
@@ -426,6 +431,7 @@
 ||https://open.kwaizt.com
 ||https://open.snssdk.com
 ||https://optimus-ads.amap.com
+||https://oss.cdn.aiclk.com
 ||https://otheve.play.aiseet.atianqi.com
 ||https://outlookads.live.com
 ||https://p.s.360.cn
@@ -460,6 +466,7 @@
 ||https://res2.hubcloud.com.cn
 ||https://res3.hubcloud.com.cn
 ||https://resolve.umeng.com
+||https://rev.aiclk.com
 ||https://review.gdtimg.com
 ||https://rms-drcn.platform.dbankcloud.cn
 ||https://roi.soulapp.cn
@@ -469,7 +476,6 @@
 ||https://samsung-com.112.2o7.net
 ||https://samsungads.com
 ||https://sanme2.taisantech.com
-||https://saveu5-normal-lq.zijieapi.com
 ||https://scs.openspeech.cn
 ||https://sdk-ab-config.qquanquan.com
 ||https://sdk-cache.video.ptqy.gitv.tv
@@ -536,6 +542,7 @@
 ||https://tnc3-bjlgy.toutiaoapi.com
 ||https://tnc3-bjlgy.zijieapi.com
 ||https://toblog.ctobsnssdk.com
+||https://tracelog-debug.aiclk.com
 ||https://tracelog-debug.qquanquan.com
 ||https://track.lc.quark.cn
 ||https://track.uc.cn
@@ -562,7 +569,9 @@
 ||https://union.baidu.com
 ||https://update.avlyun.sec.miui.com
 ||https://update.lejiao.tv
+||https://update0.aiclk.com
 ||https://upgrade-update.hismarttv.com
+||https://usr-api.aiclk.com
 ||https://v.adintl.cn
 ||https://v.adx.hubcloud.com.cn
 ||https://v1-ad.video.yximgs.com
@@ -608,7 +617,6 @@
 ||https://ws-keyboard.shouji.sogou.com
 ||https://www42.zskwai.com
 ||https://xiaomi-dtv.m.cn.miaozhen.com
-||https://xiaoshuo.wtzw.com
 ||https://xlivrdr.com
 ||https://xlmzc.cnjp-exp.com
 ||https://xlviiirdr.com
